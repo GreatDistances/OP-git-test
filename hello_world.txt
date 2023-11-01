@@ -1,1 +1,2 @@
 Hello World!
+Added text to test terminal config:  git config --global core.editor "code --wait"
